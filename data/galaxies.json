@@ -2,7 +2,7 @@
   "galaxies": [
     {
       "name": "Milky Way Galaxy",
-      "other_names" [],
+      "other_names": [],
       "description": "The galaxy that includes our solar system. It is a hazy band of white light which originates from the accumulation of unresolved stars. It is the second largest galaxy after the Andromeda Galaxy.",
       "constellation": "Sagittarius"
     },
